@@ -7,7 +7,7 @@ m1 = st.button("what a sigma")
 m2 = st.button("KABOOM!")
 m3 = st.button("blue lobster")
 if m1:
-    audio_path = r"C:\Users\Luiz\Downloads\erm what the sigma original video.mp3"
+    audio_path = r"ID3"
 
     st.audio(audio_path)
 if m2:
