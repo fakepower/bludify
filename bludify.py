@@ -7,14 +7,12 @@ m1 = st.button("what a sigma")
 m2 = st.button("KABOOM!")
 m3 = st.button("blue lobster")
 if m1:
-    audio_path = r"ID3"
+    audio_path = r"https://drive.google.com/uc?export=download&id=1pYetLCMcfWIX39QbY6zD81A7KbZvahab"
 
     st.audio(audio_path)
 if m2:
-    audio_path = r"C:\Users\Luiz\Downloads\KABOOM THERE GOES YOUR TOWER (credit to harrytwinkle2929).mp3"
+    audio_path = r"https://drive.google.com/uc?export=download&id=19WydQkhrIG7rcmXEuuBWrU8oOv1yMJjg"
     st.audio(audio_path)
 if m3:
-    audio_path = r"C:\Users\Luiz\Downloads\Blue Lobster Jumpscare Meme Sound (HD) ｜ Toccata and Fugue in D Minor Song.mp3"
+    audio_path = r"https://drive.google.com/uc?export=download&id=17cVDPjhkxLdU1mDwrJROXAend-J-ViO-"
     st.audio(audio_path)
-
-
